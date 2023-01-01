@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_4209COMP_Week_01.vcxproj, SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SFML_Application.cpp
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_02\SFML_4209COMP_Week_02\SFML_Application.cpp(51,62): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_02\SFML_4209COMP_Week_02\SFML_Application.cpp(51,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_4209COMP_Week_02.vcxproj -> C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_02\Debug\SFML_4209COMP_Week_02.exe

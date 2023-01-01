@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_4209COMP_Week_01.vcxproj, SFML_4209COMP_Week_02.vcxproj, SFML_4209COMP_Week_03.vcxproj, SFML_4209COMP_Week_04.vcxproj, SFML_4209COMP_Week_05.vcxproj, SFML_4209COMP_Week_06.vcxproj, SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SFML_GameWorld.cpp
+C:\Users\csmkandr\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_08\SFML_4209COMP_Week_08\SFML_GameWorld.cpp(166,31): warning C4018: '<': signed/unsigned mismatch
+  SFML_4209COMP_Week_08.vcxproj -> C:\Users\csmkandr\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_08\Debug\SFML_4209COMP_Week_08.exe

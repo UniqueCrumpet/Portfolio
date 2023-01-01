@@ -1,0 +1,102 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_4209COMP_Week_01.vcxproj, SFML_4209COMP_Week_02.vcxproj, SFML_4209COMP_Week_03.vcxproj, SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  SFML2D_Camera.cpp
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML2D_Camera.cpp(5,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML2D_Camera.cpp(5,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_Application.cpp
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_Application.cpp(29,59): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_Application.cpp(29,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_Application.cpp(211,62): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_Application.cpp(211,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_GameWorldLayer.cpp
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(20,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(21,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(21,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(22,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(38,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(39,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(40,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(41,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(44,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(44,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(45,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(45,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(46,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(46,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(47,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\SFML_4209COMP_Week_04\SFML_GameWorldLayer.cpp(47,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  LINK : C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\Debug\SFML_4209COMP_Week_04.exe not found or not built by the last incremental link; performing full link
+  SFML_4209COMP_Week_04.vcxproj -> C:\Users\CSMKANDR\OneDrive - Liverpool John Moores University\C++\sem2\work\SFML_4209COMP_Week_04\Debug\SFML_4209COMP_Week_04.exe

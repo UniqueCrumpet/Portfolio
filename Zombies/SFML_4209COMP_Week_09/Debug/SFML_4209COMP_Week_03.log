@@ -1,0 +1,58 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_4209COMP_Week_01.vcxproj, SFML_4209COMP_Week_02.vcxproj, SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  SFML_Application.cpp
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_Application.cpp(25,59): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_Application.cpp(25,39): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_Application.cpp(162,62): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_Application.cpp(162,42): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  SFML_GameMenu.cpp
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(39,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(39,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(46,40): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(47,41): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(59,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(59,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(148,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\SFML_4209COMP_Week_03\SFML_GameMenu.cpp(149,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  SFML_4209COMP_Week_03.vcxproj -> C:\Users\kevin\OneDrive\Desktop\Yikes\Uni_And_ImportantDetails\Uni Stuff\Work\Games\Sem2\work\SFML_4209COMP_Week_03\Debug\SFML_4209COMP_Week_03.exe
