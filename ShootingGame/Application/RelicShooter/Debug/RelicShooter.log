@@ -1,0 +1,3 @@
+﻿  Collectable.cpp
+tinyxml2-d.lib(tinyxml2.obj) : warning LNK4099: PDB 'tinyxml2.pdb' was not found with 'tinyxml2-d.lib(tinyxml2.obj)' or at 'D:\P4\5210COMP-Code\ShootingGame\Application\Debug\tinyxml2.pdb'; linking object as if no debug info
+  RelicShooter.vcxproj -> D:\P4\5210COMP-Code\ShootingGame\Application\Debug\RelicShooter.exe
