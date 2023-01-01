@@ -1,0 +1,69 @@
+﻿  Camera.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameObjectWithAnimatedSprite.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameObjectWithSprite.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  KeyboardAndMouseInputDevices.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  MainMenuBackground.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  Player.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  TileCollisionBlock.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  TileMap.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameStateEnd.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameStateStart.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameStateTest.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  Audio.cpp
+  AudioManager.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  SoundEffect.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  StreamedAudio.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  GameObject.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  Types.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\Types.cpp(23,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\Types.cpp(23,45): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  InputManager.cpp
+  BoxCollider2D.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  CircleCollider2D.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  Collider2D.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  AnimatedSprite.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  FrameTimer.cpp
+  RenderManager.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  Sprite.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  WindowManager.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  AnimationStateMachine.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  AssetManager.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  ContextProvider.cpp
+  SysContextProvider.cpp
+  GameState.cpp
+D:\P4\5210COMP-Code\ShootingGame\Application\RelicShooter\Source\Engine\Core\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SFML/System/Vector2.hpp': No such file or directory
+  GameStateManager.cpp
+  Text.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  Game.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  GameDataManager.cpp
+  Main.cpp
+D:\P4\5210COMP-Code\ShootingGame\Libraries\SFML-2.5.1_x64\include\SFML\System.hpp(33,10): fatal  error C1083: Cannot open include file: 'SFML/System/Clock.hpp': No such file or directory
+  Generating Code...
